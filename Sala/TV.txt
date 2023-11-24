@@ -1,0 +1,4 @@
+Hola, este es mi primer archivo creado en git bash
+Otro comentario
+Tercera línea de mensaje
+Saint seiya por Azteca 7
